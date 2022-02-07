@@ -8,10 +8,14 @@ html {
 }
 
 body {
-  max-width: 375px;
+  max-width: 320px;
   margin: auto;
+  background: black;
+  color: white;
 }
 
 header {
-  background-image: url(header-background.jpg);
+  background-image: url(../img/header-background.jpg);
 }
+
+
