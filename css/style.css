@@ -17,7 +17,16 @@ body {
 
 header {
   background-image: url(../img/header-background.jpg);
+  margin: 30px;
   border: 2px solid white;
+}
+
+h1 {
+  margin: 30px;
+}
+
+h2 {
+  margin: 30px;
 }
 
 header span {
@@ -27,9 +36,33 @@ font-style: italic;
 }
 
 figure {
-  max-width: 320px;
+  margin: 30px;
   background: white;
   color: black;
 }
+
+.magazine-explication {
+  background: #2afca6;
+  color: #05472f;
+}
+
+article {
+  background: white;
+  color: black;
+}
+
+p {
+  margin: 30px;
+
+}
+
+a {
+  margin: 30px;
+}
+
+footer {
+  margin: 30px;
+}
+
 
 
