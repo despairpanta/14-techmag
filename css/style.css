@@ -17,16 +17,15 @@ body {
 
 header {
   background-image: url(../img/header-background.jpg);
-  margin: 30px;
   border: 2px solid white;
 }
 
 h1 {
-  margin: 30px;
+  padding: 30px;
 }
 
 h2 {
-  margin: 30px;
+  padding: 30px;
 }
 
 header span {
@@ -35,10 +34,20 @@ font-weight:100;
 font-style: italic;
 }
 
+img {
+  box-sizing: border-box;
+}
+
+div {
+  padding: 30px;
+}
+
+
+
 figure {
-  margin: 30px;
   background: white;
   color: black;
+  box-shadow:  1px 1px 7px black;
 }
 
 .magazine-explication {
@@ -51,17 +60,27 @@ article {
   color: black;
 }
 
-p {
-  margin: 30px;
+div {
+
 
 }
 
 a {
-  margin: 30px;
+  background: #444444;
+  padding: 10px;
+  font-size: 10px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+
+p {
+  padding: 30px;
 }
 
 footer {
-  margin: 30px;
+border: 2px solid #2afca6;
+text-align: center;
 }
 
 
