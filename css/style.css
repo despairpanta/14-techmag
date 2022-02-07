@@ -12,10 +12,24 @@ body {
   margin: auto;
   background: black;
   color: white;
+  font-family: sans-serif;
 }
 
 header {
   background-image: url(../img/header-background.jpg);
+  border: 2px solid white;
+}
+
+header span {
+color: #2afca6;
+font-weight:100;
+font-style: italic;
+}
+
+figure {
+  max-width: 320px;
+  background: white;
+  color: black;
 }
 
 
