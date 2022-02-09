@@ -20,6 +20,10 @@ body {
   border: 2px solid white;
 }
 
+.main-header h1 {
+  font-size: 30px;
+}
+
 h1 {
   padding: 0 30px;
 }
@@ -28,10 +32,14 @@ h2 {
   padding: 0 30px;
 }
 
-header span {
+span {
 color: #2afca6;
-font-weight:100;
-font-style: italic;
+}
+
+em {
+  color: #2afca6;
+  font-weight:100;
+  font-style: italic;
 }
 
 img {
@@ -59,17 +67,13 @@ figcaption {
 .magazine-explication {
   background: #2afca6;
   color: #05472f;
+  margin: 30px 0;
 }
 
 article {
   background: white;
   color: black;
   padding: 30px 0;
-}
-
-div {
-
-
 }
 
 a {
@@ -84,6 +88,10 @@ a {
 
 p {
   padding: 0 30px;
+}
+
+.sub-title {
+  font-size: 12px;
 }
 
 .main-footer {
