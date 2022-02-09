@@ -84,12 +84,18 @@ figcaption {
 
 .magazine-explication h2 {
 font-size: 16px;
+padding: 1px 30px;
+}
+
+.magazine-explication p {
+  margin: 18px 0px;
 }
 
 .magazine-explication {
+  padding: 15px 0;
   background: #2afca6;
   color: #05472f;
-  margin: 30px 0;
+  margin: 19px 0;
 }
 
 article {
@@ -98,10 +104,14 @@ article {
   padding: 30px 0;
 }
 
+article h1 {
+  font-size: 16px;
+}
+
 a {
   background: #444444;
   margin: 0px 30px;
-  padding: 10px;
+  padding: 5px 17px;
   font-size: 10px;
   font-weight: bold;
   text-decoration: none;
