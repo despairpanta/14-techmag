@@ -112,7 +112,7 @@ article {
 }
 
 article h1 {
-  padding: 0px 30px 1px 30px;
+  padding: 0 30px 1px 30px;
   font-size: 16px;
 }
 
@@ -135,6 +135,7 @@ margin: 19px 0;
 border: 2px solid #2afca6;
 text-align: center;
 font-size: 10px;
+box-shadow: 0 0 3px #2afca6;
 }
 
 
